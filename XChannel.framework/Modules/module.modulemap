@@ -1,0 +1,6 @@
+framework module XChannel {
+  umbrella header "XChannel-umbrella.h"
+
+  export *
+  module * { export * }
+}
