@@ -22,5 +22,8 @@
 @property(nonatomic)            BOOL isActive;
 @property(nonatomic, strong)    NSArray *campaignSocialChannels;
 @property(nonatomic, strong)    NSDate   *lastUpdated;
+@property(nonatomic)            NSInteger campaignTypeId;
+
+-(BOOL) isCampaignTypeSocial;
 
 @end
