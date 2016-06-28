@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>config.cache.interval</key>
+        <integer>600</integer>
+        <key>config.url</key>
+        <string>http://app.spotpl.us/spotitv1.4_config.json</string>
+    </dict>
+</plist>

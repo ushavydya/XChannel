@@ -44,6 +44,14 @@
 		<data>
 		QSuLN/xozQDOJjUST1UXg8p84+c=
 		</data>
+		<key>config.json</key>
+		<data>
+		H0NezJJd4Rd+ANUBdEejBSpEI7c=
+		</data>
+		<key>config.xml</key>
+		<data>
+		nY/3gL0htM4R/FFsXYpMeX0DGHo=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -144,6 +152,28 @@
 			<key>hash2</key>
 			<data>
 			+MaS1PbnTBUtanHDiKdbVG1XCzXFPt6Hjw3dvcC15kQ=
+			</data>
+		</dict>
+		<key>config.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H0NezJJd4Rd+ANUBdEejBSpEI7c=
+			</data>
+			<key>hash2</key>
+			<data>
+			Df/UxLxlVm5k1NSPTP2SbleMvuxnMMLbByBkerHpZMk=
+			</data>
+		</dict>
+		<key>config.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nY/3gL0htM4R/FFsXYpMeX0DGHo=
+			</data>
+			<key>hash2</key>
+			<data>
+			IrQEX/UeIOL9epJBnnRFs4u3AD54Wvb6Zd/yw53mOHY=
 			</data>
 		</dict>
 	</dict>
